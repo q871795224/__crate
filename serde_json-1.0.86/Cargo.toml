@@ -59,6 +59,10 @@ version = "=1.0"
 [dependencies.ryu]
 version = "=1.0"
 
+[dependencies.proc-macro2]
+version = "=1.0.43"
+default-features = false
+
 [dependencies.serde]
 version = "1.0.100"
 default-features = false
