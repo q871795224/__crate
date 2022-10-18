@@ -47,7 +47,7 @@ name = "serde_derive"
 proc-macro = true
 
 [dependencies.proc-macro2]
-version = "=1.0"
+version = "=1.0.43"
 
 [dependencies.quote]
 version = "=1.0"
